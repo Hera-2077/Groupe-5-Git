@@ -89,6 +89,7 @@ let questions = [
     }, 
     {
         numb: 9,
+
         question: "Quel est le véritable fruit du démon de Luffy ?",
         answer: "C. Hito Hito no mi modèle Nika()",
         options: [
@@ -96,6 +97,7 @@ let questions = [
             "B. Nomi Nomi no mi modèle Sungod()",
             "C. Hito Hito no mi modèle Nika()",
             "D. Mane Mane no mi modèle Sungod()"
+
         ]
     },
     {
