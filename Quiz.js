@@ -89,13 +89,15 @@ let questions = [
     }, 
     {
         numb: 9,
-        question: "Quelle est la méthode utilisée pour supprimer un élément d'un vecteur en C++ ?",
-        answer: "A. erase()",
+
+        question: "Quel est le véritable fruit du démon de Luffy ?",
+        answer: "C. Hito Hito no mi modèle Nika()",
         options: [
-            "A. erase()",
-            "B. delete()",
-            "C. remove()",
-            "D. remove_if()"
+            "A. Gomu Gomu no mi modèle Nika()",
+            "B. Nomi Nomi no mi modèle Sungod()",
+            "C. Hito Hito no mi modèle Nika()",
+            "D. Mane Mane no mi modèle Sungod()"
+
         ]
     },
     {

@@ -184,3 +184,4 @@ function hasard() {
         questions.splice(randomIndex);
     }
 }
+
